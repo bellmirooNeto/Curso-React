@@ -1,0 +1,22 @@
+.Mega label {
+    margin-right: 10px;
+    
+}
+
+.Mega input {
+    font-size: 1.4rem;
+    width: 50px;
+}
+
+.Mega h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Mega .teste {
+    border: 1px solid #3A9AD9;
+    border-radius: 50%;
+    width: 120px;
+    padding: 7px;
+    margin: 2px;
+}
